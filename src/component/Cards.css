@@ -1,0 +1,25 @@
+.ant-card-body{
+  align-content: center;
+  color: #02032c;
+  font-family: lato;
+  height: 150px;
+  font-size: medium;
+  /* letter-spacing: 0 !important; */
+}
+.ant-card:hover .ant-card-head-title{
+  letter-spacing: 2.5px ;
+}
+
+.ant-card:hover {
+  border: #02032c !important; 
+}
+
+.ant-card-head-title{
+  font-family: Lato;
+  font-size: 1.5rem;
+  color: #02032c;
+}
+
+
+
+

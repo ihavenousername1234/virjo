@@ -1,0 +1,695 @@
+[
+    {
+      "Therapeutic Area": "ANTHELMINTICS",
+      "GENERIC COMPOSITION": "ALBENDAZOLE IP :",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTHELMINTICS",
+      "GENERIC COMPOSITION": "ALBENDAZOLE IP :",
+      "Dosage Form": "SUSPENSION",
+      "Pack Type": "BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTHELMINTICS",
+      "GENERIC COMPOSITION": "MEBENDAZOLE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTHELMINTICS",
+      "GENERIC COMPOSITION": "MEBENDAZOLE IP",
+      "Dosage Form": "SUSPENSION",
+      "Pack Type": "BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTHELMINTICS",
+      "GENERIC COMPOSITION": "ALBENDAZOLE IP + IVERMECTIN IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "KETOROLAC TROMETHAMINE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "TRAMADOL HYDROCHLORIDE B.P.",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "TRAMADOL HYDROCHLORIDE B.P.",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "PIROXICAM B.P.",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "ETORICOXIB",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "NAPROXEN B.P",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "PARACETAMOL IP + CAFFEINE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESICS",
+      "GENERIC COMPOSITION": "PARACETAMOL IP + CAFFEINE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "DICLOFENAC POTASSIUM IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "DICLOFENAC POTASSIUM IP SUSTAINED RELEASE",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "DICLOFENAC SODIUM IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "DICLOFENAC POTASSIUM IP + SERRATIOPEPTIDASE",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "ACECLOFENAC IP \r\nPARACETAMOL IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "IBUPROFEN IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "IBUPROFEN IP\r\nPARACETAMOL IP\r\nCAFFEIN ANHYDROUS IP",
+      "Dosage Form": "CAPSULE",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC -ANTIINFLAMMATORY",
+      "GENERIC COMPOSITION": "IBUPROFEN IP\r\nPARACETAMOL IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC DECONGESTANT",
+      "GENERIC COMPOSITION": "PARACETAMOL B.P.\r\nPHENYLEPHRINE HYDROCHLORIDE B.P. CHLORPHENIRAMINE MALEATE B.P.\r\nCAFFEINE (ANHYDROUS) B.P.",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANALGESIC DECONGESTANT",
+      "GENERIC COMPOSITION": "CHLORPHENIRAMINE MALEATE B.P.\r\nPHENYLEPHRINE HYDROCHLORIDE B.P",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "CHLOROQUINE PHOSPHATE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "CHLOROQUINE PHOSPHATE IP",
+      "Dosage Form": "SYRUP",
+      "Pack Type": "BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "PROGUANIL HYDROCHLORIDE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "SULPHADOXINE IP\r\nPYRIMETHAMINE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "SULPHADOXINE IP\r\nPYRIMETHAMINE IP",
+      "Dosage Form": "SUSPENSION",
+      "Pack Type": "BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "PRIMAQUINE PHOSPHATE IP",
+      "Dosage Form": "TABLET",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "QUININE SULPHATE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "ARTESUNATE,\r\nSULPHADOXINE IP +PYRIMETHAMINE IP KIT",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "COMBIKIT",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "ARTESUNATE\r\nMEFLOQUINE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "COMBIKIT",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "AMODIAQUIN HYDROCHLORIDE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIMALARIAL",
+      "GENERIC COMPOSITION": "ARTEMETHER\r\nLUMEFANTRINE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIPROTOZOAL",
+      "GENERIC COMPOSITION": "DILOXANIDE FUROATE IP METRONIDAZOLE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIPROTOZOAL",
+      "GENERIC COMPOSITION": "METRONIDAZOLE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIPROTOZOAL",
+      "GENERIC COMPOSITION": "METRONIDAZOLE BENZOATE IP",
+      "Dosage Form": "SUSPENSION",
+      "Pack Type": "BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIPROTOZOAL",
+      "GENERIC COMPOSITION": "SECNIDAZOLE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIALLERGICS",
+      "GENERIC COMPOSITION": "LEVOCETIRIZINE DIHYDROCHLORIDE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIALLERGICS",
+      "GENERIC COMPOSITION": "LEVOCETIRIZINE DIHYDROCHLORIDE +\r\nMONTELUKAST SODIUM",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIALLERGICS",
+      "GENERIC COMPOSITION": "CHLORPHENIRAMINE MALEATE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIALLERGICS",
+      "GENERIC COMPOSITION": "LORATADINE IP",
+      "Dosage Form": "TABLETS /LIQUID",
+      "Pack Type": "STRIP / BOTTLE",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "CIPROFLOXACIN HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "OFLOXACIN",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "OFLOXACIN IP\r\nTINIDAZOLE IP .",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "OFLOXACIN IP\r\nORNIDAZOLE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "LEVOFLOXACIN HEMIHYDRATE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "SULPHAMETHOXAZOLE IP\r\nTRIMETHOPRIMBP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIINFECTIVES",
+      "GENERIC COMPOSITION": "ERYTHROMYCIN STEARATE B.P.",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIPLATELETS",
+      "GENERIC COMPOSITION": "CLOPIDOGREL IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTICONVULSANTS",
+      "GENERIC COMPOSITION": "CARBAMAZEPINE IP…..",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "ENALAPRIL MALEATE B.P..",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "RAMIPRIL IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "LISINOPRIL DIHYDRATE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "ATENOLOL IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "CARVEDILOL IP…",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "ENALAPRIL MALEATE B.P..",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "AMLODIPINE BESYLATE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIHYPERTENSIVES",
+      "GENERIC COMPOSITION": "TELMISARTAN B.P.",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "ESOMEPRAZOLE MAGNESIUM TRIHYDRATE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "LANSOPRAZOLE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "RABEPRAZOLE SODIUM",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "RABEPRAZOLE SODIUM +DOMPERIDONE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "OMEPRAZOLE B.P.",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "OMEPRAZOLE IP+DOMPERIDONE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "PANTOPRAZOLE SODIUM SESQUIHYDRATE",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "RANITIDINE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIULCER & ANTISECRETORY",
+      "GENERIC COMPOSITION": "CIMETIDINE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTITUBERCULOSIS",
+      "GENERIC COMPOSITION": "PYRAZINAMIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTITUBERCULOSIS",
+      "GENERIC COMPOSITION": "ETHAMBUTOL HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "HAEMATANIC",
+      "GENERIC COMPOSITION": "FERROUS FUMARATE IP",
+      "Dosage Form": "CAPSULES",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIDIABETIC",
+      "GENERIC COMPOSITION": "GLIBENCLAMIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIDIABETIC",
+      "GENERIC COMPOSITION": "METFORMIN HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTISPASMODIC",
+      "GENERIC COMPOSITION": "HYOSCINE BUTYLBROMIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTISPASMODIC",
+      "GENERIC COMPOSITION": "MEFENAMIC ACID IP + \r\nDICYCLOMINE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTISPASMODIC",
+      "GENERIC COMPOSITION": "ACETAMINOPHEN IP + \r\nDICYCLOMINE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ERECTYL DISFUNCTION",
+      "GENERIC COMPOSITION": "SILDENAFIL CITRATE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "COAGULANTS",
+      "GENERIC COMPOSITION": "TRANEXAMIC ACID IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIPSYCHOTIC",
+      "GENERIC COMPOSITION": "OLANZAPINE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIPSYCHOTIC",
+      "GENERIC COMPOSITION": "CLOZAPINE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIPSYCHOTIC",
+      "GENERIC COMPOSITION": "RISPERIDONE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "DIURETICS",
+      "GENERIC COMPOSITION": "FRUSEMIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "DIURETICS",
+      "GENERIC COMPOSITION": "HYDROCHLOROTHIAZIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIDEPRESSANTS",
+      "GENERIC COMPOSITION": "AMITRIPTYLINE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIDEPRESSANTS",
+      "GENERIC COMPOSITION": "FLUOXETINE HYDROCHLORIDE",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "PARKINSONISM & MOVEMENT DISORDER",
+      "GENERIC COMPOSITION": "TRIHEXYPHENIDYL HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIFUNGALS",
+      "GENERIC COMPOSITION": "FLUCONAZOLE IP :",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIFUNGALS",
+      "GENERIC COMPOSITION": "CLOTRIMAZOLE IP :",
+      "Dosage Form": "VAGINAL TABS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIFUNGALS",
+      "GENERIC COMPOSITION": "NYSTATIN B.P.",
+      "Dosage Form": "TABS / VAGINAL TABS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIFUNGALS",
+      "GENERIC COMPOSITION": "KETOCONAZOLE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "BLISTER / STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "PROTEOLYTIC ENZYME",
+      "GENERIC COMPOSITION": "TRYPSIN-CHYMOTRYPSIN",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "CORTICOSTEROIDS",
+      "GENERIC COMPOSITION": "PREDNISOLONE B.P.",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "CORTICOSTEROIDS",
+      "GENERIC COMPOSITION": "DEXAMETHASONE B.P.",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIASTHMATIC",
+      "GENERIC COMPOSITION": "SALBUTAMOL SULPHATE",
+      "Dosage Form": "TABS / SYRUP",
+      "Pack Type": "STRIP / BOTTLE",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "MIGRANE",
+      "GENERIC COMPOSITION": "FLUNARIZINE DIHYDROCHLORIDE B.P.",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    },
+    {
+      "Therapeutic Area": "ANTIEMETIC-ANTINAUSEANT",
+      "GENERIC COMPOSITION": "DOMPERIDONE B.P.",
+      "Dosage Form": "TABS / DROPS",
+      "Pack Type": "STRIP / BOTTLE",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "LIPID LOWERING",
+      "GENERIC COMPOSITION": "ATORVASTATIN CALCIUM",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "LIPID LOWERING",
+      "GENERIC COMPOSITION": "ROSUVASTATIN CALCIUM",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "YES"
+    },
+    {
+      "Therapeutic Area": "ANTIDIARRHOEALS",
+      "GENERIC COMPOSITION": "LOPERAMIDE HYDROCHLORIDE IP",
+      "Dosage Form": "TABLETS",
+      "Pack Type": "STRIP",
+      "Present": "NO"
+    }
+  ] 

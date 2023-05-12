@@ -1,0 +1,20 @@
+[
+    {
+        "Sr. No.": 1,
+        "Composition": "Paracetamol 650mg",
+        "Classification": "Analgesic and Antipyretic",
+        "Packaging": "Blister"
+    },
+    {
+        "Sr. No.": 2,
+        "Composition": "Aspirin IP 75mg",
+        "Classification": "Nonsteroidal Antiinflammatory",
+        "Packaging": "Strip"
+    },
+    {
+        "Sr. No.": 3,
+        "Composition": "Azithromycin IP 250mg",
+        "Classification": "macrolide antibiotics",
+        "Packaging": "Blister"
+    }
+]
